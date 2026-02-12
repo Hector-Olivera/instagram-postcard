@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+div.card{
+    background-color: white;
+    width: 40%;
+    margin: auto;
+}
+
+div.header-card{
+    padding: 20px;
+}
+div.image img{
+    width: 100%;
+}
+div.content-card{
+    margin: 2px;
+}
+
+h1{
+    color: aqua;
+}
