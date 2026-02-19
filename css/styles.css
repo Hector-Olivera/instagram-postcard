@@ -92,7 +92,9 @@ div.image{
 }
 div.image img{
     width: 100%;
-    visibility: hidden;
+    height: 100%;
+    object-fit: cover;
+    
 }
 div.content-card{
     margin: 2px;
